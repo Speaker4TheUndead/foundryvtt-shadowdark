@@ -14,7 +14,6 @@
 	},
 	"devDependencies": {
 		"@rollup/plugin-node-resolve": "^16.0.1",
-		"chalk": "^5.4.1",
 		"classic-level": "^3.0.0",
 		"del": "^8.0.0",
 		"glob": "^11.0.2",
@@ -27,6 +26,7 @@
 		"marked": "^15.0.12",
 		"merge-stream": "^2.0.0",
 		"nedb-promises": "^6.2.3",
+		"picocolors": "^1.1.1",
 		"rollup": "^4.42.0",
 		"sass": "^1.89.1",
 		"yaml": "^2.8.0",
